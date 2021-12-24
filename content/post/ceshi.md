@@ -4,8 +4,7 @@ authors: []
 title: ceshi
 excerpt: ceshi
 date: 
-hero: ''
-draft: true
+hero: "/images/favicon.svg"
 
 ---
 321321
